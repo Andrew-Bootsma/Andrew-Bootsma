@@ -20,3 +20,5 @@ With a background in UX engineering and React, I combine coding expertise with a
 
 - 📫 [Email](mailto:andrew_boots@proton.me)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andrew-bootsma/)
+
+I'm looking forward to collaborating on projects that are at the intersection of technology and human health. Let's connect! 🌍
