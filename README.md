@@ -15,3 +15,8 @@ With a background in UX engineering and React, I combine coding expertise with a
 
 - **Career Development:** Focused on furthering my career in software development, specifically in roles that align with my mission to improve human health outcomes.
 - **Continous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+
+## Connect with Me
+
+- 📫 [Email](mailto:andrew_boots@proton.me)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andrew-bootsma/)
