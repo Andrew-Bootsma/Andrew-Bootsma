@@ -1,5 +1,9 @@
 👋🏻 Hi, I'm Andrew Bootsma! I'm a Front-End Developer at **Fullscript** 🧑🏼‍💻, passionate about building software that enhances people's health.
 
+## About Me
+
+With a background in UX engineering and React, I combine coding expertise with a deep understanding of user needs to create intuitive software. My passion lies in developing software solutions that enhance user experiences to make health-focused products more accessible and impactful.
+
 <!--
 **Andrew-Bootsma/Andrew-Bootsma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
