@@ -19,4 +19,4 @@ With a background in UX engineering and React, I combine coding expertise with a
 ## Connect with Me
 
 - 📫 [Email](mailto:andrew_boots@proton.me)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/andrew-bootsma/)
+- 🔗 <a href="https://www.linkedin.com/in/andrew-bootsma/" target="_blank">LinkedIn</a>
