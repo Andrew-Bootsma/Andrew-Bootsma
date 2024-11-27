@@ -7,7 +7,7 @@ With a background in UX engineering and React, I combine coding expertise with a
 ## Technical Skills 🛠️
 
 - **Languages:** JavaScript, TypeScript, CSS, HTML
-- **Frameworks & Libraries:** React, Jest, React Testing Library, Emotion
+- **Frameworks & Libraries:** React, React Native, Jest, React Testing Library, Emotion
 - **Tools & Platforms:** GitLab, AWS, GitHub
 - **Design & Product:** Proficient in optimizing software projects to enhance user experience and drive long-term business impact.
 
